@@ -1,0 +1,48 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+.left{
+    display: flex;
+    align-items: center;
+    margin-left: 47px;
+}
+.left img{
+    width: 130px;
+    height: 47px;
+}
+.nav{
+    background-color: #1A1A1A;
+    width: 1280px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.rightbig{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    display: flex;
+    margin-left: 381px;
+    justify-content: center;
+    align-items: center;
+}
+
+.right div{
+    
+    padding-right: 32px;
+}
+.right div:hover{
+    color:red
+    
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    margin-right: 78px;
+    font-size: 14px;
+}

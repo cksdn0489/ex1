@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.wrap{
+    width:720px;
+    height: 100px;
+}
+.title{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 14px;
+}
+.bigid{
+    display: flex;
+}
+.bigid button{
+    width: 210px;
+    height: 66px;
+    background-color: #2656FF;
+}
+.id{
+    border: 1px solid #2656FF;
+    border-radius: 5px;
+    width:451px;
+    text-indent: 16px;
+}
+.signup_chk{
+    width: 35px;
+    height: 35px;
+
+}
